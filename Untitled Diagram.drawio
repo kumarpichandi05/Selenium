@@ -265,7 +265,7 @@
           <mxGeometry x="960" y="310" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="91vOWmu6anMWhi9mx2zG-143" value="MPLS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=17;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="320" width="70" height="30" as="geometry" />
+          <mxGeometry x="960" y="510" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
