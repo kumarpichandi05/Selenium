@@ -119,7 +119,7 @@
           <mxGeometry x="215" y="466" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="91vOWmu6anMWhi9mx2zG-61" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;strokeColor=light-dark(#344cad, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="194" y="461" width="260" height="44" as="geometry" />
+          <mxGeometry x="194" y="461" width="226" height="44" as="geometry" />
         </mxCell>
         <mxCell id="91vOWmu6anMWhi9mx2zG-62" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.corporate_data_center;" vertex="1" parent="1">
           <mxGeometry x="200" y="467" width="22.42" height="33" as="geometry" />
