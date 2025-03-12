@@ -8,7 +8,7 @@
           <mxGeometry x="561" y="390" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="91vOWmu6anMWhi9mx2zG-1" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=light-dark(#de21c5, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="910" width="160" height="540" as="geometry" />
+          <mxGeometry x="910" width="160" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="91vOWmu6anMWhi9mx2zG-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/for-your-interface-free-samples/128/Globe-128.png" vertex="1" parent="1">
           <mxGeometry x="916" y="12" width="28" height="28" as="geometry" />
@@ -63,6 +63,54 @@
         </mxCell>
         <mxCell id="91vOWmu6anMWhi9mx2zG-40" value="Iraq" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-41">
           <mxGeometry x="24" y="4" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="930" y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-43" value="&lt;div&gt;IP: 10.xxx.xx.xx&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=light-dark(#de21c5, #ededed);" vertex="1" parent="91vOWmu6anMWhi9mx2zG-42">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-44" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-42">
+          <mxGeometry x="10" y="8" width="14" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-45" value="UAE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-42">
+          <mxGeometry x="19" y="4" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="930" y="650" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-47" value="&lt;div&gt;IP: 10.xxx.xx.xx&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=light-dark(#de21c5, #ededed);" vertex="1" parent="91vOWmu6anMWhi9mx2zG-46">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-48" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-46">
+          <mxGeometry x="10" y="8" width="14" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-49" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Lebanon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-46">
+          <mxGeometry x="-1" y="4" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="930" y="770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-51" value="&lt;div&gt;IP: 10.xxx.xx.xx&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=light-dark(#de21c5, #ededed);" vertex="1" parent="91vOWmu6anMWhi9mx2zG-50">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-52" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-50">
+          <mxGeometry x="10" y="8" width="14" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-53" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Singapore" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-50">
+          <mxGeometry x="-6" y="4" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="930" y="890" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-55" value="&lt;div&gt;IP: 10.xxx.xx.xx&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=light-dark(#de21c5, #ededed);" vertex="1" parent="91vOWmu6anMWhi9mx2zG-54">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-54">
+          <mxGeometry x="10" y="8" width="14" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="91vOWmu6anMWhi9mx2zG-57" value="China" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="91vOWmu6anMWhi9mx2zG-54">
+          <mxGeometry x="19" y="4" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
